@@ -154,3 +154,10 @@ univent/
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Credits
+
+Originally developed by Abhishek Balija.
+Modified and maintained by dhana301126.
+
+Licensed under the MIT License. See LICENSE.md.
